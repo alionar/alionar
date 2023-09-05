@@ -2,17 +2,10 @@
 
 - Currently working as Data Engineer
 - Interested in Data Integration, DataOps, and Data Platform
-
 <br />
-
----
-#### Connect with me
 <p>
-<a href="https://twitter.com/alionar"><img align="left" alt="alionar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-
-<a href="https://www.linkedin.com/in/alionar/"><img align="left" alt="alionar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://twitter.com/alionar"><img align="left" alt="alionar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://www.linkedin.com/in/alionar/"><img align="left" alt="alionar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </p>
-
 <br />
 <!-- 
 #### Technologies & Tools
@@ -32,5 +25,4 @@
 </p> -->
 
 ---
-#### My Github Stats
-[![alionar's github stats](https://github-readme-stats.vercel.app/api?username=alionar&theme=monokai&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![alionar's github stats](https://github-readme-stats.vercel.app/api?username=alionar&theme=monokai&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
