@@ -2,9 +2,9 @@
 
 - Currently working as Data Engineer
 - Interested in Data Integration, DataOps, and Data Platform
-<br />
+
 <p>
-<a href="https://twitter.com/alionar"><img align="left" alt="alionar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://www.linkedin.com/in/alionar/"><img align="left" alt="alionar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://twitter.com/alionar"><img align="left" alt="alionar | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" /> <a href="https://www.linkedin.com/in/alionar/"><img align="left" alt="alionar | LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />
 </p>
 <br />
 <!-- 
